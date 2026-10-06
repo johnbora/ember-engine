@@ -4,7 +4,7 @@ A real-time generative fire for McLean's Hearth, built and published with
 GitHub Pages. The source is kept in a private repository; this one holds
 only what the browser loads, and each new build replaces it.
 
-Built from commit `2e80382`: milestone 10, with the poster size confirmed.
+Built from commit `14d53fd`: milestone 10, with the poster size confirmed and the flame's solid heart hiding the wall behind it.
 
 | Address | What it does |
 |---|---|
